@@ -10,7 +10,7 @@ namespace Tym._8._10
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("на улице rain, на душе pain");
+            Console.WriteLine("На улице rain, на душе pain");
         }
     }
 }

@@ -10,7 +10,7 @@ namespace Na._8._10
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("хочу спать");
+            Console.WriteLine("Хочу спать");
         }
     }
 }
